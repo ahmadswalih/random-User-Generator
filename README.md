@@ -9,8 +9,23 @@
   </a>
 </p>
 
-> This is a Random User Data Generator application using ReactJs . The application uses api from the website randomuser.me . 
+> This is a Random User Data Generator application using ReactJs . The application uses api from the website <a href="https://randomuser.me/">randomuser.me </a> . 
 
+### Features
+  
+  - Uses boostrap/reactstrap
+  - Uses reactIcons
+  - Get Unlimited User Data on Every Refresh
+ 
+ 
+### Folder Structure
+ The applcation mainly consist of four files . 
+ 
+  - [App.js](/src/App.js) : Rendering of all the components and card are here 
+  - [card.js](/src/MyCard.js) : Design for the individual User cards are present here
+  - [index.js](/src/index.js) : for rendering the App component
+  - [App.css](/src/App.css) : for the styling
+  
 ### 🏠 [Homepage](/src/App.js)
 
 ### ✨ [Demo](https://brilliant-sprite-b67d90.netlify.app/)
@@ -55,4 +70,3 @@ Copyright © 2022 [ahmad swalih](https://github.com/ahmadswalih).<br />
 This project is [mit](add-license-1/license) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
