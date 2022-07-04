@@ -11,6 +11,8 @@
 
 > This is a Random User Data Generator application using ReactJs . The application uses api from the website <a href="https://randomuser.me/">randomuser.me </a> . 
 
+## ✨ [Demo](https://brilliant-sprite-b67d90.netlify.app/)
+
 ### Features
   
   - Uses boostrap/reactstrap
@@ -28,7 +30,7 @@
   
 ### 🏠 [Homepage](/src/App.js)
 
-### ✨ [Demo](https://brilliant-sprite-b67d90.netlify.app/)
+
 
 ## Install
 
